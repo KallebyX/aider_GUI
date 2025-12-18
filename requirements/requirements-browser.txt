@@ -135,7 +135,7 @@ toml==0.10.2
     # via
     #   -c requirements/common-constraints.txt
     #   streamlit
-tornado==6.4.2
+tornado==6.5.3
     # via
     #   -c requirements/common-constraints.txt
     #   streamlit
@@ -149,7 +149,7 @@ tzdata==2025.2
     # via
     #   -c requirements/common-constraints.txt
     #   pandas
-urllib3==2.4.0
+urllib3==2.6.0
     # via
     #   -c requirements/common-constraints.txt
     #   requests
