@@ -81,7 +81,7 @@ pillow==11.2.1
     # via
     #   -c requirements/common-constraints.txt
     #   streamlit
-protobuf==5.29.4
+protobuf==6.33.5
     # via
     #   -c requirements/common-constraints.txt
     #   streamlit
